@@ -1,0 +1,7 @@
+.btn{
+    border: none;
+    color: aliceblue;
+    background: rgb(137, 18, 173);
+    padding: 10px 20px;
+    cursor: pointer;
+}
